@@ -9,7 +9,7 @@ Assignments 5 onwards
 
 ## Midterm
 Using the 2D Pipeline, along with basic matrix manipulations, to 
-create something dope. Find it [here](https://github.com/austince/midi-graphics).  
+create something interesting. Find it [here](https://github.com/austince/midi-graphics).  
 
 
 ## Disclaimer!  
